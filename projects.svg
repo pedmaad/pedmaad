@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="152" viewBox="0 0 840 152" role="img" aria-labelledby="pt pd">
+<title id="pt">pedmaad — selected projects</title>
+<desc id="pd">Three selected repositories with short descriptions and tags: recon-toolkit, writeups, lab-notes.</desc>
+<defs><linearGradient id="pInk" x2="0" y2="1"><stop stop-color="#0B1020"/><stop offset="1" stop-color="#0A111A"/></linearGradient></defs>
+<g font-family="Consolas,'Liberation Mono',Menlo,monospace">
+<g transform="translate(8 0)">
+<rect x=".5" y=".5" width="263" height="151" rx="16" fill="url(#pInk)" stroke="#B9C7DE" stroke-opacity=".13"/>
+<rect x=".5" y=".5" width="263" height="151" rx="16" fill="none" stroke="#5BE9B9" stroke-opacity=".55" stroke-width="1.1" stroke-dasharray="34 300"><animate attributeName="stroke-dashoffset" values="0;-334" dur="2.8s" repeatCount="indefinite"/></rect>
+<circle cx="20" cy="22" r="3.4" fill="#5BE9B9"/><circle cx="20" cy="22" r="7" fill="none" stroke="#5BE9B9" stroke-opacity=".45"><animate attributeName="opacity" values=".15;.6;.15" dur="1.3s" repeatCount="indefinite"/></circle>
+<text x="34" y="26" font-size="11.5" fill="#E5EDF8">recon-toolkit</text>
+<text x="20" y="52" font-size="9" fill="#91A4BC">Python CLI for host discovery and</text>
+<text x="20" y="66" font-size="9" fill="#91A4BC">quick service fingerprinting.</text>
+<rect x="20" y="86" width="48" height="16" rx="8" fill="#5BE9B9" fill-opacity=".1" stroke="#5BE9B9" stroke-opacity=".35"/>
+<text x="31" y="97" font-size="7.6" fill="#5BE9B9">python</text>
+<rect x="74" y="86" width="40" height="16" rx="8" fill="#5BE9B9" fill-opacity=".1" stroke="#5BE9B9" stroke-opacity=".35"/>
+<text x="85" y="97" font-size="7.6" fill="#5BE9B9">nmap</text>
+<path d="M20 128H243" stroke="#5BE9B9" stroke-opacity=".45" stroke-width="1.4" stroke-dasharray="12 40"><animate attributeName="stroke-dashoffset" values="0;-160" dur="1.2s" repeatCount="indefinite"/></path>
+<text x="20" y="142" font-size="7.6" fill="#91A4BC">built · documented</text>
+</g>
+<g transform="translate(288 0)">
+<rect x=".5" y=".5" width="263" height="151" rx="16" fill="url(#pInk)" stroke="#B9C7DE" stroke-opacity=".13"/>
+<rect x=".5" y=".5" width="263" height="151" rx="16" fill="none" stroke="#6495FF" stroke-opacity=".55" stroke-width="1.1" stroke-dasharray="34 300"><animate attributeName="stroke-dashoffset" values="0;-334" dur="3.2s" repeatCount="indefinite"/></rect>
+<circle cx="20" cy="22" r="3.4" fill="#6495FF"/><circle cx="20" cy="22" r="7" fill="none" stroke="#6495FF" stroke-opacity=".45"><animate attributeName="opacity" values=".15;.6;.15" dur="1.5s" repeatCount="indefinite"/></circle>
+<text x="34" y="26" font-size="11.5" fill="#E5EDF8">writeups</text>
+<text x="20" y="52" font-size="9" fill="#91A4BC">CTF and crackme notes, with the</text>
+<text x="20" y="66" font-size="9" fill="#91A4BC">thinking written out.</text>
+<rect x="20" y="86" width="34" height="16" rx="8" fill="#6495FF" fill-opacity=".1" stroke="#6495FF" stroke-opacity=".35"/>
+<text x="31" y="97" font-size="7.6" fill="#6495FF">md</text>
+<rect x="60" y="86" width="52" height="16" rx="8" fill="#6495FF" fill-opacity=".1" stroke="#6495FF" stroke-opacity=".35"/>
+<text x="71" y="97" font-size="7.6" fill="#6495FF">ghidra</text>
+<path d="M20 128H243" stroke="#6495FF" stroke-opacity=".45" stroke-width="1.4" stroke-dasharray="12 40"><animate attributeName="stroke-dashoffset" values="0;-160" dur="1.35s" repeatCount="indefinite"/></path>
+<text x="20" y="142" font-size="7.6" fill="#91A4BC">notes · reproducible</text>
+</g>
+<g transform="translate(568 0)">
+<rect x=".5" y=".5" width="263" height="151" rx="16" fill="url(#pInk)" stroke="#B9C7DE" stroke-opacity=".13"/>
+<rect x=".5" y=".5" width="263" height="151" rx="16" fill="none" stroke="#FFCC80" stroke-opacity=".55" stroke-width="1.1" stroke-dasharray="34 300"><animate attributeName="stroke-dashoffset" values="0;-334" dur="3.6s" repeatCount="indefinite"/></rect>
+<circle cx="20" cy="22" r="3.4" fill="#FFCC80"/><circle cx="20" cy="22" r="7" fill="none" stroke="#FFCC80" stroke-opacity=".45"><animate attributeName="opacity" values=".15;.6;.15" dur="1.7s" repeatCount="indefinite"/></circle>
+<text x="34" y="26" font-size="11.5" fill="#E5EDF8">lab-notes</text>
+<text x="20" y="52" font-size="9" fill="#91A4BC">TryHackMe path logs and the</text>
+<text x="20" y="66" font-size="9" fill="#91A4BC">commands that worked.</text>
+<rect x="20" y="86" width="34" height="16" rx="8" fill="#FFCC80" fill-opacity=".1" stroke="#FFCC80" stroke-opacity=".35"/>
+<text x="31" y="97" font-size="7.6" fill="#FFCC80">md</text>
+<rect x="60" y="86" width="44" height="16" rx="8" fill="#FFCC80" fill-opacity=".1" stroke="#FFCC80" stroke-opacity=".35"/>
+<text x="71" y="97" font-size="7.6" fill="#FFCC80">linux</text>
+<path d="M20 128H243" stroke="#FFCC80" stroke-opacity=".45" stroke-width="1.4" stroke-dasharray="12 40"><animate attributeName="stroke-dashoffset" values="0;-160" dur="1.5s" repeatCount="indefinite"/></path>
+<text x="20" y="142" font-size="7.6" fill="#91A4BC">in progress</text>
+</g>
+</g>
+</svg>
