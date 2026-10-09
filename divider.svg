@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="18" viewBox="0 0 840 18" role="img" aria-labelledby="dt dd">
+<title id="dt">divider</title>
+<desc id="dd">Animated neon divider with a travelling light pulse and end nodes.</desc>
+<defs>
+<linearGradient id="dRail" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#5BE9B9"/><stop offset=".34" stop-color="#6495FF"/>
+<stop offset=".67" stop-color="#C4B5FD"/><stop offset="1" stop-color="#FFCC80"/>
+</linearGradient>
+<linearGradient id="dPulse" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#5BE9B9" stop-opacity="0"/><stop offset=".5" stop-color="#E5EDF8"/>
+<stop offset="1" stop-color="#FF8FA3" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<path d="M10 9H830" stroke="#B9C7DE" stroke-opacity=".12" stroke-width="1"/>
+<path d="M10 9H830" stroke="url(#dRail)" stroke-opacity=".5" stroke-width="1.2" stroke-dasharray="2 6"/>
+<path d="M10 9H830" stroke="url(#dPulse)" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="120 700">
+<animate attributeName="stroke-dashoffset" values="830;-130" dur="4s" repeatCount="indefinite"/>
+</path>
+<path d="M10 5l4 4-4 4-4-4z" fill="#5BE9B9"/>
+<path d="M420 5l4 4-4 4-4-4z" fill="#6495FF"/>
+<path d="M830 5l4 4-4 4-4-4z" fill="#FFCC80"/>
+<circle cx="420" cy="9" r="5" fill="none" stroke="#C4B5FD" stroke-opacity=".55">
+<animate attributeName="r" values="3;7;3" dur="2.6s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".55;.08;.55" dur="2.6s" repeatCount="indefinite"/>
+</circle>
+</svg>
